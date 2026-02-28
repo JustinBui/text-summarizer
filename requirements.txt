@@ -25,3 +25,4 @@ uvicorn==0.18.3
 Jinja2==3.1.2
 evaluate
 ipykernel
+accelerate==0.28.0
